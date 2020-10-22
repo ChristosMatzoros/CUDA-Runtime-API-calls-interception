@@ -1,5 +1,5 @@
 # CUDA-Runtime-API-calls-interception
-Shared library for intercepting CUDA Runtime API calls. This was part of my Bachelor thesis: A Study on the Computational Exploitation of Remote Virtualized Graphics Cards (https://bit.ly/37tIG0D)
+Shared library for intercepting CUDA Runtime API calls. This code was part of my Bachelor thesis: "A Study on the Computational Exploitation of Remote Virtualized Graphics Cards" (https://bit.ly/37tIG0D)
 
 
 Prerequisites:
