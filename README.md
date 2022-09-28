@@ -22,4 +22,4 @@ How to run:
 $ LD_PRELOAD=/full_path_to_thecuda_intercept_directory/cuda_intercept/lib_cuda_intercept.so ./full_path_to_the_directory_of_the_CUDA_Program/your_cuda_program.cu
 
 e.g.
-LD_PRELOAD=/home/Desktop/cuda_intercept/lib_cuda_intercept.so /home/NVIDIA_CUDA-9.0_Samples/6_Advanced/transpose/transpose
+LD_PRELOAD=/home/cuda_intercept/lib_cuda_intercept.so /home/NVIDIA_CUDA-9.0_Samples/6_Advanced/transpose/transpose
